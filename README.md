@@ -1,5 +1,7 @@
 Exercícios em Linguagem Estruturada C
 
+[EM CONSTRUÇÃO]
+
 Este repositório possui diveros exercícios em nível crescente de dificuldade. 
 Os cógidos são resoluções dos exercícios exigidos no curso técnico de Desenvolvimento de Sistemas no IFSul de Minas.
 Cada pasta/diretório consta com códigos listados, em nível crescente de dificuldade. Nas pastas output seguem os arquivos .exe referentes.
