@@ -8,7 +8,9 @@ Cada pasta/diretório consta com códigos listados, em nível crescente de dific
 
 Alguns códigos são acompanhados por suas alternativas mais "simplificadas", utilizando a biblioteca CS50 (Harvard CS50).
 
-Para facilitar a execução na maioria das IDEs, incluí a biblioteca e linha que facilita a apresentação de caracteres especiais, comuns em PT-BR.
+Para facilitar a execução na maioria das IDEs, incluí a biblioteca e linha que facilita a apresentação de caracteres especiais, comuns em PT-BR: <windows.h> e  SetConsoleOutputCP(CP_UTF8). 
+Para utilizar, basta exclui os sinais de comentários // nas respectivas linhas.
+
 
 Os códigos podem ser executados em qualquer IDE para linguagem C ou C++.
 Caso deseje utilizar uma IDE online, sugiro a https://www.onlinegdb.com/ e o VSCode online adaptado https://cs50.dev/.
